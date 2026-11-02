@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://avenhammedia.co.uk/sitemap.xml

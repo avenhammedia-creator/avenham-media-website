@@ -1,0 +1,19 @@
+# Avenham Media
+
+> UK web design studio. Avenham Media designs websites, builds brands and runs social media for small businesses and brands across the UK.
+
+- Websites: phone-first design, contact forms, bookings and shops, an admin panel, set up to be found on Google.
+- Design: logos, brand kits, colours and fonts, print.
+- Social: Instagram, TikTok and Facebook set-up, post templates, content planned every two weeks.
+- Optional extra: professional photos of menus, food or products for the website, taken on site.
+- Shop: Google tap-to-review cards and NFC business cards, designed and set up for you.
+- Prices: Starter £450 (one-off), Business £750 (one-off, includes branding), Growth £50 (social media posts bi-weekly and website updates), Custom (tell us what you need and we give you a fixed quote).
+- Contact: avenham.media@gmail.com, Instagram and Facebook @avenham.media.
+
+## Pages
+- [Home](https://avenhammedia.co.uk/)
+- [Services](https://avenhammedia.co.uk/services)
+- [Packages and prices](https://avenhammedia.co.uk/packages)
+- [Shop: review and NFC cards](https://avenhammedia.co.uk/shop)
+- [Our work](https://avenhammedia.co.uk/work)
+- [Contact](https://avenhammedia.co.uk/contact)

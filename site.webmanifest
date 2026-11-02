@@ -1,0 +1,14 @@
+{
+  "name": "Avenham Media",
+  "short_name": "Avenham",
+  "description": "Websites, design and social media for UK businesses.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09121F",
+  "theme_color": "#09121F",
+  "icons": [
+    {"src": "img/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "img/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "img/icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
