@@ -838,3 +838,5 @@
     if (location.hash === '#edit') toggle(true);
   });
 })();
+
+      (function(){var cl=function(u){return String(u).replace(/\/index\.html(?=$|[?#])/,'/').replace(/\.html(?=$|[?#])/,'')},P=history.pushState,R=history.replaceState,last=location.pathname;function w(f){return function(s,t,u){if(u!=null)u=cl(new URL(u,location.href).href);var r=f.call(history,s,t,u);last=location.pathname;return r}}history.pushState=w(P);history.replaceState=w(R);try{history.replaceState(history.state,'',location.href)}catch(e){}addEventListener('popstate',function(){if(location.pathname!==last){last=location.pathname;if(!/\.html$/.test(location.pathname))location.reload()}})})();
